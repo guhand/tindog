@@ -1,1 +1,4 @@
-Website Link : guhand.github.io/tindog
+<span>
+TinDog Website Link :
+</span>
+<a href="https://guhand.github.io/tindog">Click Here</a>
