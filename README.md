@@ -1,1 +1,1 @@
-Website Link : github.io/guhand/tindog
+Website Link : guhand.github.io/tindog
